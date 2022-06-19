@@ -1,6 +1,6 @@
 # INSTALAR OU ATUALIZAR PAINELWEB GESTOR-SSH DEBIAN 8, UBUNTU 14 E UBUNTU 18! ATUALIZAÇÃO 21/05/2022.
 ```
-apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- raw.githubusercontent.com//andreluiz81/melhorSSH/main/gestorssh/instpainel.sh)
+apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/andreluiz81/melhorSSH/blob/main/install.sh)
 ```
 
 # SINCRONIZAR NA VPS SSH! ATUALIZAÇÃO 13/05/2022.
